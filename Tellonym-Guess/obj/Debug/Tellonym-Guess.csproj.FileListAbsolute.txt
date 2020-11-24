@@ -1,0 +1,6 @@
+C:\Users\Nour\source\repos\Tellonym-Guess\Tellonym-Guess\bin\Debug\Tellonym-Guess.exe.config
+C:\Users\Nour\source\repos\Tellonym-Guess\Tellonym-Guess\bin\Debug\Tellonym-Guess.exe
+C:\Users\Nour\source\repos\Tellonym-Guess\Tellonym-Guess\bin\Debug\Tellonym-Guess.pdb
+C:\Users\Nour\source\repos\Tellonym-Guess\Tellonym-Guess\obj\Debug\Tellonym-Guess.csproj.CoreCompileInputs.cache
+C:\Users\Nour\source\repos\Tellonym-Guess\Tellonym-Guess\obj\Debug\Tellonym-Guess.exe
+C:\Users\Nour\source\repos\Tellonym-Guess\Tellonym-Guess\obj\Debug\Tellonym-Guess.pdb
